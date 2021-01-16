@@ -5,11 +5,11 @@ FooComponent.vue works as a component for Vue or Nuxt having installed <a href="
 
 You can install BV:
 
-[//]: <> With npm
-npm install vue bootstrap bootstrap-vue
+[//]: # (With npm)
+<code>npm install vue bootstrap bootstrap-vue</code>
 
-[//]: <> With yarn
-yarn add vue bootstrap bootstrap-vue
+[//]: # (With yarn)
+<code>yarn add vue bootstrap bootstrap-vue</code>
 
 Make sure to add it as a dependency in <i>nuxt.config.js</i>.
 
