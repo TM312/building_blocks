@@ -7,7 +7,7 @@ You can install BV:
 
 [//]: # (With npm)
 <code>npm install vue bootstrap bootstrap-vue</code>
-
+or
 [//]: # (With yarn)
 <code>yarn add vue bootstrap bootstrap-vue</code>
 
@@ -19,11 +19,6 @@ Make sure to add it as a dependency in <i>nuxt.config.js</i>.
  export default {
     modules: [
         'bootstrap-vue/nuxt',
-        '@nuxtjs/axios',
-        '@nuxtjs/auth',
-        // '@nuxtjs/toast',
-        // Docs: https: //github.com/richardeschloss/nuxt-socket-io
-        'nuxt-socket-io'
     ],
 //...
 }```
